@@ -8,19 +8,31 @@ I created a command-line application that dynamically generates a professional R
 
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Credits](#credits)
   - [License](#license)
   - [Contributing](#contributing)
-   - [Tests](#tests)
-   
+  - [Tests](#tests)
+
 ## Installation
+
+```bash
+npm install inquirer
+``` 
 
 ## Usage
 
 Video: 
 
+## Credits
+
+https://github.com/coding-boot-camp/potential-enigma/blob/master/readme-guide.md
+
 ## License
 
 ## Contributing 
 
+None
+
 ## Tests
 
+None 
