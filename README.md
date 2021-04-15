@@ -21,8 +21,6 @@ npm install inquirer
 
 ## Usage
 
-Video: 
-
 ## Credits
 
 https://github.com/coding-boot-camp/potential-enigma/blob/master/readme-guide.md
@@ -31,8 +29,5 @@ https://github.com/coding-boot-camp/potential-enigma/blob/master/readme-guide.md
 
 ## Contributing 
 
-None
-
 ## Tests
 
-None 
