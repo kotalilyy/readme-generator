@@ -36,6 +36,9 @@ MIT
 ```bash
 node index.js
 ```
+
 ## Questions
 
 If you have any questions feel free to email me at kotalilyy@gmail.com
+
+_Happy Coding!_
