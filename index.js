@@ -5,6 +5,7 @@ const fs = require("fs");
 const generateMarkdown = require("./utils/generateMarkdown");
 const writeFile = util.promisify(fs.writeFile);
 
+// options for license
 const licenseChoices = 
 [
     "GNU General Public License v3.0",

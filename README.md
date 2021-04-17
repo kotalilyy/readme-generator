@@ -21,15 +21,21 @@ npm install inquirer
 
 ## Usage
 
-## Credits
+Video Instructions for Usage: 
 
-https://github.com/coding-boot-camp/potential-enigma/blob/master/readme-guide.md
+## Contributing 
+
+Create a pull request to contribute!
 
 ## License
 
 MIT
 
-## Contributing 
-
 ## Tests
 
+```bash
+node index.js
+```
+## Questions
+
+If you have any questions feel free to email me at kotalilyy@gmail.com
