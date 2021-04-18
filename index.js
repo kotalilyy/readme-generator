@@ -1,22 +1,16 @@
-// create variables for packages needed in this application
 const inquirer = require("inquirer");
-const util = require("util");
 const fs = require("fs");
 const generateMarkdown = require("./utils/generateMarkdown");
-const writeFile = util.promisify(fs.writeFile);
 
-// options for license
-const licenseChoices = 
-[
-    "GNU General Public License v3.0",
-    "MIT",
-    "The Unlicense"
-]
+const licenseChoices = [
+  "GNU General Public License v3.0",
+  "MIT",
+  "The Unlicense",
+];
 
-// create array of questions for user input
 const questions = [
   {
-    name: "project_title",
+    name: "title",
     message: "What is the title of your project?",
   },
   {
@@ -35,7 +29,7 @@ const questions = [
     type: "list",
     name: "license",
     message: "Would you like to add a license?",
-    choices: licenseChoices
+    choices: licenseChoices,
   },
   {
     name: "contributing",
@@ -59,19 +53,20 @@ const questions = [
   },
 ];
 
-// create function to write README file
-function writeToFile(fileName, data) {}
-
-//  function to initialize app
-function init() {
-  console.log("Hello Node!");
+function writeToFile(fileName, data) {
+  fs.writeFile(fileName, data, (err) => {
+    if (err) {
+      console.error(err);
+      return;
+    }
+  });
 }
-init();
 
 inquirer
   .prompt(questions)
   .then((answers) => {
-    console.log("# " + answers["project_title"]);
+    const markdown = generateMarkdown(answers);
+    writeToFile("generated_README.md", markdown);
   })
   .catch((error) => {
     if (error.isTtyError) {
