@@ -8,6 +8,8 @@ I created a command-line application that dynamically generates a professional R
 
 ## Table of Contents
 
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
@@ -33,13 +35,13 @@ Create a pull request to contribute!
  
 ## License
 
-MIT
+[MIT](https://opensource.org/licenses/MIT).
 
 ## Tests
 
 ```bash
 node index.js
-```
+``` 
 
 ## Questions
 
