@@ -1,10 +1,10 @@
-# README Generator
+# Readme Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-I created a command line applicated that dynamically generates a professional README.md file 
+A command line application that dynamically generates a professional readme.md file
 
 ## Table of Contents 
 
@@ -18,7 +18,7 @@ I created a command line applicated that dynamically generates a professional RE
 
 ## Installation 
 
-clone the repo and install using npm install inquirer 
+clone the repo and install using npm install inquirer
 
 ## Usage 
 
@@ -30,13 +30,13 @@ This project is licensed under [MIT](https://opensource.org/licenses/MIT).
 
 ## Contributing
 
-Create a pull request to contribute.
+Create a pull request to contribute!
 
 ## Tests
 
-node index.js 
+node index.js
 
 ## Questions
 
-kotalilyy@gmail.com	
+kotalilyy@gmail.com
 
