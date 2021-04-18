@@ -29,13 +29,17 @@ npm install inquirer
 Video Instructions for Usage: https://drive.google.com/file/d/1KGzGBd6cqvhkmORPLkpv14iqbfkZ0CB8/view
 ![screenshot](/images/readmegen.PNG)
 
+## Credits
+
+[Node Documentation](https://nodejs.org/en/docs/)
+
+## License
+
+[MIT](https://opensource.org/licenses/MIT)
+
 ## Contributing 
 
 Create a pull request to contribute!
- 
-## License
-
-[MIT](https://opensource.org/licenses/MIT).
 
 ## Tests
 
