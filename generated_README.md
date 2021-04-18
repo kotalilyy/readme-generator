@@ -1,10 +1,10 @@
-# gfdgd
+# Readme Generator
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-gfdgsf
+I created a command-line application that dynamically generates a professional README.md 
 
 ## Table of Contents 
 
@@ -14,28 +14,29 @@ gfdgsf
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation 
 
-fd
+clone the repo and install inquirer using npm install inquirer
 
 ## Usage 
 
-ffg
+node index.js
 
 ## License  
 
-This project is licensed under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0). 
+This project is licensed under [MIT](https://opensource.org/licenses/MIT). 
 
 ## Contributing
 
-gfgd
+Create a pull request to contribute
 
 ## Tests
 
-gdfg
+npm test
 
 ## Questions
 
-fdgfg
+kotalilyy@gmail.com
 

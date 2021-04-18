@@ -1,5 +1,7 @@
 # README Generator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
 I created a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer)
@@ -12,6 +14,7 @@ I created a command-line application that dynamically generates a professional R
   - [License](#license)
   - [Contributing](#contributing)
   - [Tests](#tests)
+  - [Questions](#questions)
 
 ## Installation
 
@@ -22,11 +25,12 @@ npm install inquirer
 ## Usage
 
 Video Instructions for Usage: 
+![screenshot](/images/readmegen.PNG.png)
 
 ## Contributing 
 
 Create a pull request to contribute!
-
+ 
 ## License
 
 MIT
