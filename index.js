@@ -47,10 +47,6 @@ const questions = [
     name: "github",
     message: "What is your Github username?",
   },
-  {
-    name: "email",
-    message: "What is your email address?",
-  },
 ];
 
 function writeToFile(fileName, data) {

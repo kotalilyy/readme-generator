@@ -25,7 +25,7 @@ npm install inquirer
 ## Usage
 
 Video Instructions for Usage: 
-![screenshot](/images/readmegen.PNG.png)
+![screenshot](/images/readmegen.PNG)
 
 ## Contributing 
 
