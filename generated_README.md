@@ -4,19 +4,17 @@
 
 ## Description
 
-A command line application that dynamically generates a professional readme.md file
+A command line application that dynamically generates a README.md file
 
 ## Table of Contents 
 
-  - [Readme Generator](#readme-generator)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation 
 
