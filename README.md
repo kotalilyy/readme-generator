@@ -28,7 +28,7 @@ npm install inquirer
 
 Video Instructions for Usage: https://drive.google.com/file/d/1KGzGBd6cqvhkmORPLkpv14iqbfkZ0CB8/view
 
-![screenshot](/images/readmegen.png)
+![screenshot](/images/readmegen.PNG)
 
 ## Credits
 
