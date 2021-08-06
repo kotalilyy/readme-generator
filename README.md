@@ -46,7 +46,9 @@ Video Instructions for Usage: https://drive.google.com/file/d/1KGzGBd6cqvhkmORPL
 
 ## Contributing 
 
-Create a pull request to contribute!
+Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ## Questions
 
