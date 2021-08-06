@@ -24,7 +24,13 @@ I created a command-line application that dynamically generates a professional R
 npm install inquirer
 ``` 
 
-## Usage
+## Usage 
+
+To invoke the application type this in the command line : 
+
+```bash
+node index.js
+``` 
 
 Video Instructions for Usage: https://drive.google.com/file/d/1KGzGBd6cqvhkmORPLkpv14iqbfkZ0CB8/view
 
@@ -41,12 +47,6 @@ Video Instructions for Usage: https://drive.google.com/file/d/1KGzGBd6cqvhkmORPL
 ## Contributing 
 
 Create a pull request to contribute!
-
-## Tests
-
-```bash
-node index.js
-``` 
 
 ## Questions
 
