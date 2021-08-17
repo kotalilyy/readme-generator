@@ -1,10 +1,10 @@
-# README Generator
+# readme-generator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 ## Description
 
-I created a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer)
+This app generates a professional readme.md file for you.
 
 ## Table of Contents
 
@@ -12,10 +12,8 @@ I created a command-line application that dynamically generates a professional R
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
   - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
+  - [Contributions](#contributions)
   - [Questions](#questions)
 
 ## Installation
@@ -26,25 +24,22 @@ npm install inquirer
 
 ## Usage 
 
-To invoke the application type this in the command line : 
+To invoke the application type this in the command line: 
 
 ```bash
 node index.js
 ``` 
 
-Video Instructions for Usage: https://drive.google.com/file/d/1KGzGBd6cqvhkmORPLkpv14iqbfkZ0CB8/view
+Click [here](https://drive.google.com/file/d/1KGzGBd6cqvhkmORPLkpv14iqbfkZ0CB8/view) for video instructions.
 
-![screenshot](/images/readmegen.PNG)
+![readmegen](https://user-images.githubusercontent.com/77229281/129709472-c92cabd0-72f9-42c8-a304-dab8c191cef3.png)
 
-## Credits
-
-[Node Documentation](https://nodejs.org/en/docs/)
 
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
 
-## Contributing 
+## Contributions
 
 Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
 
